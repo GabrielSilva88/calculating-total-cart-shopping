@@ -2,4 +2,4 @@
 #### product-listing
 #### adding-product-cart
 #### listing-my-buying-cart
-#### Final calculating-total-cart-shopping
+#### calculating-total-cart-shopping
